@@ -1,0 +1,12 @@
+https://assets.zoom.us/docs/ipranges/Zoom.txt
+https://assets.zoom.us/docs/ipranges/ZoomMeetings.txt
+https://assets.zoom.us/docs/ipranges/ZoomMeetings-IPv6.txt
+https://assets.zoom.us/docs/ipranges/ZoomCRC.txt
+https://assets.zoom.us/docs/ipranges/ZoomPhone.txt
+https://assets.zoom.us/docs/ipranges/ZoomPhone-IPv6.txt
+https://assets.zoom.us/docs/ipranges/ZoomCC.txt
+https://assets.zoom.us/docs/ipranges/ZoomCC-IPv6.txt
+https://assets.zoom.us/docs/ipranges/ZoomCDN.txt
+https://assets.zoom.us/docs/ipranges/ZoomCDN-IPv6.txt
+https://assets.zoom.us/docs/ipranges/ZoomApps.txt
+https://assets.zoom.us/docs/ipranges/ZoomApps-IPv6.txt
